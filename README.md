@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🌱 I’m currently learning C
+
+![GitHub followers](https://img.shields.io/github/followers/Rubuark?style=social)
+
+![](https://github-readme-stats.vercel.app/api?username=Rubuark&theme=dark)
+
+
 <!--
 **Rubuark/Rubuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
