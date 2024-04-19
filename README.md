@@ -1,23 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning C
+🌱 I’m currently learning C and Japanese
 
-![GitHub followers](https://img.shields.io/github/followers/RubuJam?style=social)
+![GitHub followers](https://img.shields.io/github/followers/RubuJam?style=flat&labelColor=%23f38ba0&color=%23ffbcbc)
 
-![](https://github-readme-stats.vercel.app/api?username=RubuJam&theme=dark)
-
-
-<!--
-**Rubuark/Rubuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![RubuJam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubuJam&show_icons=true&hide=stars&bg_color=ffbcbc&title_color=fffefe&icon_color=ffffff&text_color=ffffff&hide_border=true&locale=ja)](https://github.com/anuraghazra)
