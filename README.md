@@ -2,9 +2,9 @@
 
 🌱 I’m currently learning C
 
-![GitHub followers](https://img.shields.io/github/followers/Rubuark?style=social)
+![GitHub followers](https://img.shields.io/github/followers/RubuJam?style=social)
 
-![](https://github-readme-stats.vercel.app/api?username=Rubuark&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=RubuJam&theme=dark)
 
 
 <!--
